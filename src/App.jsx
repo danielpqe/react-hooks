@@ -5,6 +5,7 @@ import {Characters} from './components/Characters.js'
 const App = () => {
     return (
         <div className="App">
+            <Header />
             <Characters />
         </div>
     )
